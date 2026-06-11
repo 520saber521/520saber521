@@ -16,11 +16,7 @@
 
 ## 🎵 Recently Played / 最近在听
 
-<p align="left">
-  <a href="https://music.163.com/">
-    <img src="https://netease-cloud-music-api-theta.vercel.app/api?id=31215160&theme=dark" alt="Netease Music Status" width="400px" />
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
