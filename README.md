@@ -16,17 +16,6 @@
 
 ---
 
-## 🎵 Recently Played / 最近在听
-
-<a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-</a>
-
----
-
-
-
-
 
 <img align="right" alt="Coding GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
