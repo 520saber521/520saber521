@@ -5,15 +5,15 @@
 <p align="left">
 
   <img src="https://img.shields.io/badge/Status-Building%20in%20Public-active?style=flat-square&color=28a745" alt="Status" />
-
+<div>
+    <img align="right" src="image_a33203ff.png" alt="Saber Dinner" width="380px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </div>
   <img src="https://img.shields.io/badge/Stack-AI%20Agent%20%7C%20Java%20Backend-blue?style=flat-square" alt="Focus" />
 
   <a href="https://github.com/520saber521"><img src="https://img.shields.io/github/followers/520saber521?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
 
 </p>
-<div>
-    <img align="right" src="image_a33203ff.png" alt="Saber Dinner" width="380px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </div>
+
 
 
 > 💡 **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
