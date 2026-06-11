@@ -1,5 +1,5 @@
-# 🪐 Hi, I'm saber 👋
-
+# 🪐 Hi, I'm saber 👋  
+ 
 <img align="right" alt="Saber Dinner" width="360px" src="image_a33203ff.png" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
 <p align="left">
@@ -79,7 +79,11 @@
 
 ---
 
+---
+
 ## 🤝 Let's Connect! / 寻找同伙
+
+<img align="right" alt="saber-connect" width="180px" src="Gemini_Generated_Image_w2ydnvw2ydnvw2yd.png" style="margin-left: 20px; margin-bottom: 20px;" />
 
 如果你对以下任何一个话题感兴趣，欢迎随时 Ping 我唠嗑：
 - 💬 怎么玩转 **MCP 协议**，让大模型真正拥有多模态控制力？
@@ -87,6 +91,8 @@
 - 💬 怎么在不依靠 Prompt 的情况下，用纯工程手段防止大模型的思考链路泄露？
 
 📪 **给我留言**：[13852064211@163.com](mailto:13852064211@163.com) ｜ ⚡ **GitHub**: [@520saber521](https://github.com/520saber521)
+
+<br clear="right" />
 
 ---
 <p align="center">
