@@ -1,8 +1,6 @@
 # 🪐 Hi, I'm saber 👋
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="left" valign="top" width="65%">
+<img align="right" alt="Saber Dinner" width="360px" src="image_a33203ff.png" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Building%20in%20Public-active?style=flat-square&color=28a745" alt="Status" />
@@ -14,12 +12,15 @@
 
 我是一名**大三学生**。目前正在学习 **LLM Agent 智能体工程** 与 **高性能 Java 后端架构** 的交叉地带。不喜欢按部就班地堆砌业务代码，更痴迷于把好玩的想法在 GitHub 变成现实。
 
-    </td>
-    <td align="right" valign="top" width="35%" style="padding-left: 15px;">
-      <img src="image_a33203ff.png" alt="Saber Dinner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
+
+---
+
+## 🎵 Recently Played / 最近在听
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+</a>
 
 ---
 
