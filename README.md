@@ -6,24 +6,24 @@
   <a href="https://github.com/520saber521"><img src="https://img.shields.io/github/followers/520saber521?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
 </p>
 
-<img align="right" alt="Coding GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 > 💡 **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
 
 我是一名**大三学生**。目前正在学习 **LLM Agent 智能体工程** 与 **高性能 Java 后端架构** 的交叉地带。不喜欢按部就班地堆砌业务代码，更痴迷于把好玩的想法在 GitHub 变成现实。
 
 ---
 
+<img align="right" alt="Coding GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ## 🎵 Recently Played / 最近在听
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11153360645)
 
 ---
 
 ## ⚡ 关于我 / Dev Logs
 
 * 🤖 **和 LLM 斗智斗勇**：深知大模型有多么“不听话”。相比于写一堆随时会失效的 Prompt，我更倾向于通过**自研 Phase-anchored 执行器、多阶段流水线门禁和事件层代码拦截**来强行“规训”模型。用严谨的工程逻辑去兜底模型的随机性，才是 Agent 落地最酷的方式。
-* ☕ **后端硬核流**：虽然最近在疯狂折腾 AI，但依旧是个老 Java 人。对高并发多级缓存（Redis + Caffeine 两级架构加速 4 倍）、JVM 底层机制以及分库分表机制依然保持着热忱。
+* ☕ **后端硬核流**：虽然最近在疯狂折腾 AI，但依旧是个老 Java人。对高并发多级缓存（Redis + Caffeine 两级架构加速 4 倍）、JVM 底层机制以及分库分表机制依然保持着热忱。
 * 🥇 **黑客松选手**：喜欢熬夜爆肝、和有趣的人一起写出改变点什么的软件。曾和队友一起在 **TRAE on Campus AI 编程黑客松**（字节跳动 TRAE 官方主办）中拿下了**一等奖**。
 
 ---
