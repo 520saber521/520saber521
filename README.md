@@ -1,36 +1,31 @@
 # 🪐 Hi, I'm saber 👋
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p align="left">
+      <img src="https://img.shields.io/badge/Status-Building%20in%20Public-active?style=flat-square&color=28a745" alt="Status" />
+      <img src="https://img.shields.io/badge/Stack-AI%20Agent%20%7C%20Java%20Backend-blue?style=flat-square" alt="Focus" />
+      <a href="https://github.com/520saber521"><img src="https://img.shields.io/github/followers/520saber521?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
+    </p>
 
+    > 💡 **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
 
-<p align="left">
+    我是一名**大三学生**。目前正在学习 **LLM Agent 智能体工程** 与 **高性能 Java 后端架构** 的交叉地带。不喜欢按部就班地堆砌业务代码，更痴迷于把好玩的想法在 GitHub 变成现实。
+  </div>
+  <div>
+    <img src="image_a33203ff.jpg" alt="Saber Dinner" width="380px" style="border-radius: 8px;" />
+  </div>
+</div>
 
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-active?style=flat-square&color=28a745" alt="Status" />
-
-  <img src="https://img.shields.io/badge/Stack-AI%20Agent%20%7C%20Java%20Backend-blue?style=flat-square" alt="Focus" />
-
-  <a href="https://github.com/520saber521"><img src="https://img.shields.io/github/followers/520saber521?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
-
-</p>
-
-
-
-> 💡 **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
-
-
-
-我是一名**大三学生**。目前正在学习 **LLM Agent 智能体工程** 与 **高性能 Java 后端架构** 的交叉地带。不喜欢按部就班地堆砌业务代码，更痴迷于把好玩的想法在 GitHub 变成现实。
-
-
-
---- 
-
-
+---
 
 <img align="right" alt="Coding GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ## 🎵 Recently Played / 最近在听
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11153360645)
+<a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31f4pifoi5glwsr4lcfnquxw4bka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+</a>
 
 ---
 
@@ -39,7 +34,8 @@
 * 🤖 **LLM Agent 工程化落地**：相比于编写复杂的 Prompt 来约束模型行为，我更倾向于通过工程框架来兜底大模型的随机性。在实际开发中，我尝试利用**多阶段执行器（Phase-anchored）、流水线门禁校验和事件层拦截**等纯工程手段，来解决模型跳步和推理链路泄露等问题，保障 Agent 复杂工作流的稳定性。
 * ☕ **后端架构与并发性能**：保持对基础后端的长期热忱，是个坚定的 Java 开发者。对系统并发性能、JVM 底层调优和分库分表机制有浓厚兴趣，曾通过 **Redis + Caffeine 构建两级缓存架构**，将主页热门数据的查询响应耗时降低了 4 倍。
 * 🌐 **探索 MCP 与开源生态**：最近在死磕 **MCP（Model Context Protocol）多模态协议**。我认为让大模型真正接入基础设施和多样化工具，是未来智能体演进的必然趋势。目前也正在尝试将一些好玩的 Agent 工作流想法以组件的形式开源到社区。
-* 🥇 **黑客松选手**：喜欢熬夜爆肝、和有趣的人一起写出改变点什么的软件。曾和队友一起在 **TRAE on Campus AI 编程黑客松**（字节跳动 TRAE 官方主办）中拿下了**一等奖**。
+* 🧱 **我的工程习惯**：代码强迫症，推崇“防御式编程”。习惯在开发初期就对关键路径进行参数隔离与容错设计，尽最大可能在编码阶段消灭诸如 `KeyError`、空指针、变量未初始化等常见的运行时崩溃隐患。
+* 🥇 **黑客松选手**：喜欢和有趣、有想法的伙伴一起熬夜爆肝。曾作为核心成员在 **TRAE on Campus AI 编程黑客松**（字节跳动 TRAE 官方与中国矿业大学主办）中拿下了**一等奖**。
 
 ---
 
