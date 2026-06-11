@@ -1,14 +1,21 @@
 # 🪐 Hi, I'm saber 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-active?style=flat-square&color=28a745" alt="Status" />
-  <img src="https://img.shields.io/badge/Stack-AI%20Agent%20%7C%20Java%20Backend-blue?style=flat-square" alt="Focus" />
-  <a href="https://github.com/520saber521"><img src="https://img.shields.io/github/followers/520saber521?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
-</p>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p align="left">
+      <img src="https://img.shields.io/badge/Status-Building%20in%20Public-active?style=flat-square&color=28a745" alt="Status" />
+      <img src="https://img.shields.io/badge/Stack-AI%20Agent%20%7C%20Java%20Backend-blue?style=flat-square" alt="Focus" />
+      <a href="https://github.com/520saber521"><img src="https://img.shields.io/github/followers/520saber521?style=flat-square&logo=github&label=Followers" alt="Followers" /></a>
+    </p>
 
-> 💡 **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
+    > 💡 **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
 
-我是一名**大三学生**。目前正在学习 **LLM Agent 智能体工程** 与 **高性能 Java 后端架构** 的交叉地带。不喜欢按部就班地堆砌业务代码，更痴迷于把好玩的想法在 GitHub 变成现实。
+    我是一名**大三学生**。目前正在学习 **LLM Agent 智能体工程** 与 **高性能 Java 后端架构** 的交叉地带。不喜欢按部就班地堆砌业务代码，更痴迷于把好玩的想法在 GitHub 变成现实。
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="image_3.png" alt="Saber Chibi Dinner Scene" width="400" />
+  </div>
+</div>
 
 ---
 
