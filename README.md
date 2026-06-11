@@ -18,7 +18,9 @@
 ---
 
 ## 🛰️ 个人简介 / About Me
-* 💼 **工业实践**：曾任**字节怪兽公司（苏州）** · AI 全栈开发工程师，负责大模型工程化落地与 Agent 工作流引擎设计。
+
+> **“用工程规范驯服模型随机性，用技术创新探索 AI 边界。”**
+* 💼 **工业实践**：曾任 **字节怪兽公司（苏州）** · AI 全栈开发工程师，负责大模型工程化落地与 Agent 工作流引擎设计。
 * 🏆 **技术荣誉**：
   * **一等奖** ｜ TRAE on Campus AI 编程黑客松（字节跳动 TRAE & 中国矿业大学主办）
   * **省级奖项 2 项**
@@ -69,32 +71,4 @@
 * 📦 **技术栈**：`Spring Boot 3` + `Spring AI` + `RAG 知识库` + `Tool Calling` + `MCP 多模态`
 
 ### 🖼️ 智能协同云图库平台 `高并发架构实践`
-> 涵盖公共、私有、团队共享三大模块，支持分布式存储与实时协同的企业级云图库。
-
-* ⚡ **多级缓存优化**：引入 **Redis + Caffeine 构建两级缓存架构**，使主页热门图片查询响应耗时**降低 4 倍**，并基于随机过期时间设计完美规避缓存雪崩。
-* 📦 **技术栈**：`Vue 3` + `Spring Boot` + `COS` + `WebSocket` + `Redis` + `ShardingSphere`
-
----
-
-## 📊 极客数据面板 / GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=520saber521&show_icons=true&theme=tokyonight&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="LiuHang's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=520saber521&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=520saber521&theme=tokyonight&background=0d1117&title=58A6FF&fire=58A6FF&ring=58A6FF&labels=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎮 代码贡献贪吃蛇 / Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/520saber521/520saber521/output/github-contribution-grid-snake.svg" alt="Snake game" />
-</p>
-
-<p align="center">
-  ✍️ <i>Every commit is a step towards a more intelligent world.</i>
-</p>
+> 涵盖公共、私有、团队共享三大模块，支持分布式存储与实时协同的企业级云图库
